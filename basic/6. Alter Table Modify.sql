@@ -1,0 +1,5 @@
+ALTER TABLE Reservation MODIFY COLUMN ReserveDate VARCHAR(20);
+
+/*
+ALTER TABLE 테이블이름 MODIFY COLUMN 필드이름 필드타입
+/*

@@ -1,0 +1,6 @@
+create table customer (
+	customer_name char(20),
+	customer_street char(30),
+	customer_city char(30),
+	primary key(customer_name)
+);
